@@ -18,6 +18,7 @@ export default {
 <style scoped lang="scss">
     .footer{
         max-width: 100vw;
+        padding: 0;
         a {
             text-decoration: none;
             padding-left: 20px;
